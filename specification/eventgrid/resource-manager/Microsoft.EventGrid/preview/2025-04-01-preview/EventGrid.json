@@ -13435,8 +13435,8 @@
           "description": "The set of filter values.",
           "type": "array",
           "items": {
-            "format": "double",
-            "type": "number"
+            "format": "int32",
+            "type": "integer"
           }
         }
       },
