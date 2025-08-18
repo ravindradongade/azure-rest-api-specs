@@ -14,7 +14,6 @@ options:
     package-dir: "Azure.ResourceManager.HealthDataAIServices"
     flavor: azure
     namespace: "{package-dir}"
-    service-name: "Health Data AI Services"
   "@azure-tools/typespec-python":
     package-dir: "azure-mgmt-healthdataaiservices"
     flavor: "azure"
